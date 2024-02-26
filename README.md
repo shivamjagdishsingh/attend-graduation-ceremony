@@ -3,8 +3,9 @@ In a university, your attendance determines whether you will be allowed to atten
 
 Your task is to determine the following:
 
-The number of ways to attend classes over N days.
-The probability that you will miss your graduation ceremony.
+1. The number of ways to attend classes over N days.
+2. The probability that you will miss your graduation ceremony.
+   
 Represent the solution in the string format as "Answer of (2) / Answer of (1)", don't actually divide or reduce the fraction to decimal
 
 Test cases:
